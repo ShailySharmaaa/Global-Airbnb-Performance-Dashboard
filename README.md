@@ -203,7 +203,7 @@ Cities analyzed include:
 • New York sees increased review activity in November and December, aligning with holiday tourism.
 • The ribbon chart highlights seasonal tourism demand shifts across different cities.
 
-Business Impact & Insights
+## Business Impact & Insights
 Market Expansion
 
 Cities such as Paris, New York, and Sydney dominate listings, making them key markets in the global Airbnb ecosystem.

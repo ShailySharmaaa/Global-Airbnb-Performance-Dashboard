@@ -1,16 +1,16 @@
 # Global-Airbnb-Performance-Dashboard
 🏠 Airbnb Analytics: Global Airbnb Performance Dashboard
-1. Project Title / Headline
+## Project Title / Headline
    
 Airbnb Analytics: Global Airbnb Performance Dashboard
 An interactive data visualization dashboard designed to analyze Airbnb listings, host performance, review behavior, and market distribution across major global cities. The dashboard highlights insights related to listing growth, pricing trends, customer engagement, and host trust indicators to support data-driven decision making in the short-term rental industry.
 
-3. Short Description / Purpose
+## Short Description / Purpose
 
 The Airbnb Performance Dashboard is an interactive Power BI report built to analyze over 279,000 Airbnb listings across 10 major cities worldwide. The dashboard enables users to explore patterns in listing growth, pricing structures, host verification, customer reviews, and city-level market share.
 This dashboard helps data analysts, tourism strategists, hospitality businesses, and investors understand trends in the global short-term rental market and identify high-performing locations and property types.
 
-5. Tech Stack
+## Tech Stack
  
 The dashboard was developed using the following tools and technologies:
 • 📊 Power BI Desktop – Main platform used to build interactive dashboards and visualizations.
@@ -21,7 +21,7 @@ The dashboard was developed using the following tools and technologies:
 .pbix – Power BI development file
 .png – Dashboard preview images for documentation and presentation
 
-4. Data Source
+## Data Source
 
 The dataset used in this project was obtained from Maven Analytics, which provides real-world datasets for analytics learning and portfolio projects.
 The dataset represents listing and host information from Airbnb, covering multiple cities around the world.
@@ -41,7 +41,7 @@ Dataset Overview
 • 10 Global Cities
 This dataset enables analysis of Airbnb market distribution, pricing trends, customer satisfaction, and host trust indicators across different cities.
 
-5. Features / Highlights
+## Features / Highlights
 Business Problem
 
 The growth of short-term rental platforms like Airbnb has significantly changed the hospitality industry. However, analyzing large datasets containing thousands of listings, hosts, and reviews makes it difficult to quickly understand market trends, city performance, and customer satisfaction levels.
@@ -69,7 +69,7 @@ The main objective of this dashboard is to create an interactive analytical tool
 
 The dashboard provides a clear, visual overview of Airbnb's marketplace performance and customer behavior.
 
-Walkthrough of Key Visuals
+## Walkthrough of Key Visuals
 1️⃣ Global Listings Overview (KPI Cards)
 
 The dashboard begins with key performance indicators summarizing the dataset:
@@ -197,7 +197,7 @@ Cities analyzed include:
 • Mexico City
 • Sydney
 
-Key Insights
+## Key Insights
 
 • Paris and Rome dominate review share between April and August, reflecting peak European travel seasons.
 • New York sees increased review activity in November and December, aligning with holiday tourism.
